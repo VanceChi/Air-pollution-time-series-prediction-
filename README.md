@@ -22,3 +22,5 @@ value (NOx concentration) from the input features using regression
 techniques. You are free to choose and design your own network and
 there is no limitation on that, however, your model should be able to
 deal with missing values.
+
+The Fourier method is additional, but not every successfull in results.
